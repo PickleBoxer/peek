@@ -1,0 +1,7 @@
+{
+  "name": "peek",
+  "version": "0.1.0",
+  "author": { "name": "Matic Vertacnik" },
+  "description": "Thumbnail previews above the prompt for every pasted [Image #N]",
+  "types": "./types/index.d.ts"
+}
