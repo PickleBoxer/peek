@@ -20,8 +20,8 @@ The Desktop app already previews pasted images, so peek draws nothing there.
 ## Install
 
 ```
-/plugin marketplace add PickleBoxer/peek
-/plugin install peek@peek
+/plugin marketplace add PickleBoxer/claude-plugins
+/plugin install peek@pickleboxer
 ```
 
 ## Where the images come from
